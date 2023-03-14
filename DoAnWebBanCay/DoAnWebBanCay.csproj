@@ -191,6 +191,16 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\images\cay1.jpg" />
+    <Content Include="Content\images\cay10.jpg" />
+    <Content Include="Content\images\cay2.jpg" />
+    <Content Include="Content\images\cay3.png" />
+    <Content Include="Content\images\cay4.jpg" />
+    <Content Include="Content\images\cay5.jpg" />
+    <Content Include="Content\images\cay6.jpg" />
+    <Content Include="Content\images\cay7.jpg" />
+    <Content Include="Content\images\cay8.jpg" />
+    <Content Include="Content\images\cay9.jpg" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
